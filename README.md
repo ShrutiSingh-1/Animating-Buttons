@@ -9,7 +9,7 @@
 
 Welcome to the Animating Buttons repository! 🎉
 
-This project aims to provide a collection of animated buttons that you can use to enhance your web development projects. Whether you're a beginner or an experienced developer, these buttons will add a touch of interactivity and flair to your websites.
+This project's aim is to provide a collection of animated buttons that you can use to enhance your web development projects. Whether you're a beginner or an experienced developer, these buttons will add a touch of interactivity and flair to your websites.
 <h1 align="center">✨✨HacktoberFest 2022✨✨</h1>
 <img width="1440" alt="Screenshot 2022-10-15 at 1 19 54 PM" src="https://user-images.githubusercontent.com/89961974/195976027-407986aa-6865-4462-859d-b5e4d2deeb64.png">
 
